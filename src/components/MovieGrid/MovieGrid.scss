@@ -1,0 +1,13 @@
+.movie-grid {
+    text-align: center;
+    margin-top: 25px;
+    &_title {
+        font-size: 35px;
+        font-weight: bold;
+    }
+    &_item {
+        display: flex !important;
+        justify-content: center !important;
+        margin-top: 25px;
+    }
+}

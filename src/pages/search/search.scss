@@ -1,0 +1,13 @@
+.search {
+    margin: 50px 0;
+    &_title {
+        text-align: center;
+        font-size: 18px;
+        color: gray;
+    }
+    input {
+        border-radius: 10px;
+        height: 40px;
+        margin-bottom: 10px;
+    }
+}
